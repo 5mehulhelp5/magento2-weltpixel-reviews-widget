@@ -11,8 +11,8 @@ With composer:
 $ composer config repositories.welpixel-magento2-weltpixel-backend git https://github.com/Weltpixel/magento2-weltpixel-backend.git
 $ composer require weltpixel/magento2-weltpixel-backend:dev-master
 
-$ composer config repositories.welpixel-magento2-reviews-widget git https://github.com/Weltpixel/magento2-reviews-widget.git
-$ composer require weltpixel/magento2-reviews-widget:dev-master
+$ composer config repositories.welpixel-magento2-weltpixel-reviews-widget git https://github.com/Weltpixel/magento2-weltpixel-reviews-widget.git
+$ composer require weltpixel/magento2-weltpixel-reviews-widget:dev-master
 ```
 
 Manually:

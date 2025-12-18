@@ -1,5 +1,5 @@
 {
-    "name": "weltpixel/magento2-reviews-widget",
+    "name": "weltpixel/magento2-weltpixel-reviews-widget",
     "description": "WeltPixel Reviews Widget Module",
     "require": {
         "magento/module-catalog": "*",
